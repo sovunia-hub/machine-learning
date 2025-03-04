@@ -16,6 +16,8 @@ This repository contains different tasks solved using classification, clustering
 - [🐧 Penguins Clustering (K-Means, DBSCAN, Agglomerative)](https://github.com/sovunia-hub/machine-learning/blob/main/penguins-clustering-k-means-dbscan-agglom.ipynb)
 - [🍷 Wine Clustering](https://github.com/sovunia-hub/machine-learning/blob/main/wine_clustering.ipynb)
 
+## 📌 Project Descriptions
+
 ### 🔢 MNIST with Ensembles
 Classification of handwritten digits from the MNIST dataset using ensemble methods (Bagging, Boosting, Stacking).
 
