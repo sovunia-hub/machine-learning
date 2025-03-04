@@ -1,6 +1,6 @@
 # 🧠 Machine Learning Projects Repository
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange) ![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 Welcome to my repository featuring various machine learning projects! 🚀
 
